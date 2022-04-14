@@ -19,6 +19,7 @@ Choose your favourite gradient for your project
 ## How To Run ...🏃...
 - Download and Unzip The File
 - download all packages
+- open it with vs code and cd to the directory having package.json file
 
 
 <pre>
